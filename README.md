@@ -1,4 +1,4 @@
-# 💫About Me :
+💫About Me :
 👋 Hi, I’m @darthph
 🌱 I’m currently learning python
 👀 I’m interested in cybersecurity 
